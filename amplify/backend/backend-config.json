@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "randomroulette18988d8e": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
